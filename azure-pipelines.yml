@@ -16,4 +16,3 @@ steps:
     targetType: inline
     script: |
       Write-Host "Creando tarea automática..."
-``
